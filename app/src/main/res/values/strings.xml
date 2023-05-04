@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Affirmation</string>
+    <string name="Affirmation1">A coragem não é ausência do medo; é a persistência apesar do medo. -Desconhecido</string>
+    <string name="Affirmation2">Um homem de sucesso é aquele que pode estabelecer uma base sólida com os tijolos que outros jogaram nele. -David Brink</string>
+    <string name="Affirmation3">Não é possível ser bom pela metade. - Léon Tolstoi</string>
+    <string name="Affirmation4">O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso. -Maya Angelou</string>
+    <string name="Affirmation5">Quando você pára de perseguir as coisas erradas, você dá as coisas certas a chance de pegar você. -Lolly Daskal</string>
+    <string name="Affirmation6">O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso. - Maya Angelou</string>
+    <string name="Affirmation7">Todo progresso ocorre fora da zona de conforto. - Michael John Bobak</string>
+    <string name="affirmation">Affirmation</string>
+</resources>
